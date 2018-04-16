@@ -373,4 +373,5 @@
   <TalendProperties:User xmi:id="_sywm8jjIEeiK14PU6n_aWQ" login="admin@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_f2zBoTjaEeiNyaUutsPREQ" login="pari@gmail.com" firstName="pari" lastName="K" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_MbsOMDlmEeijeroVnDqK2Q" login="Trigger-Runner" type="DI"/>
+  <TalendProperties:User xmi:id="_sMmnYUFDEei4tc7F8aQj8g" login="suresh@gmail.com" firstName="Suresh" lastName="K" type="DI" additionnalData="{}"/>
 </xmi:XMI>
